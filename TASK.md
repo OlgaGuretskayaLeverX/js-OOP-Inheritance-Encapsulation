@@ -64,9 +64,9 @@ Harry Potter by J.K. Rowling has 500 pages
 
 ## 🎯 Story
 
-Users want to track how many pages they have read in a book.
+User wants to track how many pages they have read in a book.
 
-The app should store reading progress and update it when the user reads more pages.
+The app should store reading progress and **update** it when the user reads more pages.
 
 ## ✅ Requirements
 
@@ -79,10 +79,12 @@ Add to `Book`:
 ### Method:
 
 - read(pages)
+- read(pages)
 
 ## 🧾 Expected Output Example:
 
 Current progress: 50/500
+Current progress: 80/500
 
 ---
 
