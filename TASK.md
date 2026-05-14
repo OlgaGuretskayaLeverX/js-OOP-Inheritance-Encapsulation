@@ -84,6 +84,7 @@ Add to `Book`:
 ## 🧾 Expected Output Example:
 
 Current progress: 50/500
+
 Current progress: 80/500
 
 ---
