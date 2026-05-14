@@ -1,5 +1,5 @@
-import { Book } from "./book.js";
-import { AudioBook } from "./audioBook.js";
+const Book = require("./Book.js");
+const AudioBook = require("./audioBook.js");
 
 async function main() {
   const book = new Book("Harry Potter", "J.K. Rowling", 500);
