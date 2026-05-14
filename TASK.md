@@ -72,7 +72,7 @@ The app should store reading progress and **update** it when the user reads more
 
 Add to `Book`:
 
-### Property:
+### Protected property:
 
 - \_readPages (number, starts from 0)
 
@@ -142,7 +142,7 @@ Add private property:
 
 ### Methods:
 
-- addBookmark(page)
+- addBookmark(pages)
 - showBookmark()
 
 ## 🚫 Rules
